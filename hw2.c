@@ -2,7 +2,7 @@
 
 int main()
 {
-	//1버전
+	//1version
 
 	/*
 	float km;
@@ -16,7 +16,7 @@ int main()
 	return 0;
 	*/
 
-	//2버전
+	//2version
 
 	float km;
 	printf("Please enter kilometers: ");
